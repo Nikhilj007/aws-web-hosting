@@ -9,7 +9,7 @@ This repository contains walkthroughs / scripts for building web hosting archite
 - Treating infrastructure as code (IaC)
 - Continuous integration and deployment (CI/CD)
 
-Visit [kevinleger.com](https://kevinleger.com) to check out the site used in the walkthroughs which runs using the techniques described herein.
+
 
 ## To-Do List:
 - add authentication and authorization phase
@@ -746,8 +746,3 @@ Now the domain is being served via cloudfront which can be seen in google chrome
 - view response headers
 
 ![Web Headers](docs/dynamicWebsite/webResponseHeaders.jpg)
-
-## Credits
-Thanks to [AJ](https://twitter.com/ajlkn) and [Ram](https://twitter.com/ram__patra) for the awesome [static website template](https://github.com/rampatra/photography).
-
-Thanks to [Adrian](https://twitter.com/adriancantrill) for his AWS training and the [techstudyslack](techstudyslack.slack.com) community for help with anything AWS.
